@@ -1,4 +1,7 @@
+NOTE: This is now integrated into Vandervecken/RouteFlow here https://github.com/rsanger/RouteFlow/tree/fastpath 
+
 # routeflow-fastpath
+
 A simple RYU controller intended for use with RouteFlow to reduce the number of packet-in and packet-out messages
 
 
